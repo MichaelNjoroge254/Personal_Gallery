@@ -24,7 +24,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <div class="card" style="width: 18rem;">
+                <div class="card" style="width: 16.5rem;">
                     <div class="card-header">
                         <h2> Images Category </h2>
                     </div>
@@ -48,7 +48,7 @@
 
                     {% for photo in photos %}
                    <div class="col-md-4">
-                    <div class="card">
+                    <div class="card my-2">
                         <img class="image-thumbail" src="{{photo.image.url}}" alt="Card image cap">
                         <div class="card-body">
                             <small>Category: {{photo.category.name}}</small>
