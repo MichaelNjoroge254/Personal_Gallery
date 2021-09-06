@@ -10,17 +10,6 @@ This is a Django application for personal gallery that allows a user to upload i
   
 ##  Live Link  
  Click [View Site]( )  to visit the site
-  
-## Screenshots 
-###### Home page
- 
-<img src="">
- 
- ###### Search results
- <img src=""> 
-
- ###### Image Details 
- <img src="">
  
 ## User Story  
   
