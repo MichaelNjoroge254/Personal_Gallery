@@ -90,5 +90,5 @@ If you have any question or contributions, please email me at [michael.m.njoroge
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)]
 * Copyright (c) 2021 **Michael Njoroge**
